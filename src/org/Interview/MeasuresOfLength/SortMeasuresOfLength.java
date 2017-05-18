@@ -14,7 +14,7 @@ import java.util.List;
 public class SortMeasuresOfLength {
 
 	/**
-	 * This method takes in an input of unsorted measures and outputs a list of soreted measures
+	 * This method takes in an input of unsorted measures and outputs a list of sorted measures
 	 * @param measuresOfLengthList unsorted measures in a String list
 	 * @return sorted measures in a String list 
 	 */
